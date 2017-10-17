@@ -8,4 +8,4 @@
    __[Documento.xml](https://raw.githubusercontent.com/pep232/hello-wolrd/master/documento.xml)__
 1. Comprobación de funcionamiento del alchivo .rtf , con openoffice.
 1. Creación de un repositorio en __Github.com__
-1. Comprobar si el archivo .html se abre, pasando por la pagina __rawgit.com__. [Si pulsas aquí](https://rawgit.com/pep232/hello-wolrd/master/doc.html) abrirás el enlace al archivo, una vez pasado por la página de rawgit.
+1. Comprobar si el archivo .html se abre, pasando por la pagina ___rawgit.com___. [Si pulsas aquí](https://rawgit.com/pep232/hello-wolrd/master/doc.html) abrirás el enlace al archivo, una vez pasado por la página de rawgit.
